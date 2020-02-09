@@ -3,7 +3,7 @@
 <section class="section">
   <div class="container">
     {{- $pctx := . -}}
-    {{- if .IsHome -}}{{ $pctx = .Site }}{{- end -}}
+    {{- if .IsHome -}}{{ $pctx := .Site }}{{- end -}}
     {{- $pages := $pctx.RegularPages -}}
     {{ $paginator := .Paginate (where $pages "Params.hidden" "ne" true) }}
     {{ range sort .Paginator.Pages }}
