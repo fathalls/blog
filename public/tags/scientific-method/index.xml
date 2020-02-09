@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>scientific method on Salwa Fathallah</title>
+    <link>https://salwa.dev/tags/scientific-method/</link>
+    <description>Recent content in scientific method on Salwa Fathallah</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>&amp;copy;2020</copyright>
+    <lastBuildDate>Sun, 25 Aug 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://salwa.dev/tags/scientific-method/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>On how to be creative</title>
+      <link>https://salwa.dev/post/on-how-to-be-creative/</link>
+      <pubDate>Sun, 25 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://salwa.dev/post/on-how-to-be-creative/</guid>
+      <description>Creativity, the method.</description>
+    </item>
+    
+  </channel>
+</rss>

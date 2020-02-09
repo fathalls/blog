@@ -1,0 +1,28 @@
+/* 
+
+html {
+  filter: invert(100%) hue-rotate(180deg) brightness(105%) contrast(85%);
+  -webkit-filter: invert(100%) hue-rotate(180deg) brightness(105%) contrast(85%);
+}
+img,
+video,
+body * [style*="background-image"] {
+  filter: hue-rotate(180deg) contrast(100%) invert(100%);
+  -webkit-filter: hue-rotate(180deg) contrast(100%) invert(100%);
+}
+
+h1,
+.content h1,
+.content h2,
+.content h3,
+.content h4,
+.content h5,
+.content h6 {
+  color: #b030b0;
+}
+
+a {
+    color: #b030b0;
+    text-decoration-style: initial;
+    text-decoration-color: #b030b0;
+  } */

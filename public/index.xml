@@ -1,0 +1,46 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Salwa Fathallah</title>
+    <link>https://salwa.dev/</link>
+    <description>Recent content on Salwa Fathallah</description>
+    <generator>Hugo - gohugo.io</generator>
+    <language>en</language>
+    <contact>ribice@gmail.com</contact>
+    <copyright>&copy;2020</copyright>
+    
+        <atom:link href="https://salwa.dev/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Posts</title>
+      <link>https://salwa.dev/post/</link>
+      <pubDate>Mon, 16 Sep 2019 00:00:00 +0000</pubDate>
+      <author>Emir Ribic</author>
+      <guid>https://salwa.dev/post/</guid>
+      <description></description>
+      
+      <content></content>
+      
+    </item>
+    
+    <item>
+      <title>About me</title>
+      <link>https://salwa.dev/me/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>Emir Ribic</author>
+      <guid>https://salwa.dev/me/</guid>
+      <description></description>
+      
+      <content>&lt;p&gt;Software engineer based in London. I like minimalism and building things from scratch.&lt;/p&gt;
+
+&lt;p&gt;This site references my thoughts, some of my continuous learnings &amp;amp; a couple of projects I worked on in my free time.&lt;/p&gt;
+
+&lt;p&gt;Currently working as a backend engineer at Spotify helping build the new payments&amp;rsquo; system.&lt;/p&gt;
+
+&lt;p&gt;I you want to chat, you can reach out to me on &lt;a href=&#34;https://twitter.com/salwa_fathallah&#34; target=&#34;_blank&#34;&gt;Twitter&lt;/a&gt; or &lt;a href=&#34;https://www.linkedin.com/in/salwa-fathallah-74a07232/&#34; target=&#34;_blank&#34;&gt;LinkedIn&lt;/a&gt;!&lt;/p&gt;
+</content>
+      
+    </item>
+    
+  </channel>
+</rss>
