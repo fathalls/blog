@@ -6885,7 +6885,7 @@ q:before {
 a {
   font-size: 100%;
   background: 0 0;
-  color: turquoise;
+  color: #39A0ED;
   text-decoration: none;
   -webkit-transition: none 86ms ease-out;
   transition: none 86ms ease-out;
@@ -9246,10 +9246,6 @@ a.box:active {
 
 .subtitle strong {
   color: #222324;
-}
-
-.subtitle+.title {
-  margin-top: -20px;
 }
 
 .subtitle.is-1 {
@@ -13139,8 +13135,35 @@ html {
 .content h5:not(:first-child),
 .content h6:not(:first-child),
 article+article {
-  margin-top: 80px;
+  margin-top: 20px;
 }
+
+article {
+  border-radius: 15px;
+  padding:30px 30px 30px 100px;
+}
+
+article .icon {
+  position: absolute;
+  font-size: 3em;
+  left:30px;
+}
+
+article:hover {
+  background:#f8f8fa;
+  transition: background-color 200ms linear;
+}
+
+/* article:hover .title a, article:hover .icon {
+  color: #FC9E4F !important;
+  text-decoration: none;
+} */
+
+article .title, article .title a:hover {
+  text-decoration: none !important;
+  margin-bottom: 5px !important;
+}
+
 
 .content {
   font-size: 16.50px;

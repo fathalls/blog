@@ -1,6 +1,7 @@
 ---
 date: 2019-09-15
 linktitle: Databases 101
+icon: database
 tags : [
     "databases",
 ]

@@ -1,6 +1,7 @@
 ---
 date: 2019-07-12
 linktitle: Demystifying Node.js for beginners
+icon: code-alt
 tags : [
     "nodejs",
 ]

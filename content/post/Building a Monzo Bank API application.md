@@ -1,5 +1,6 @@
 +++
 title = "Building a Monzo Bank API application"
+icon = "credit-cards"
 tags = [
     "openbanking",
 ]
