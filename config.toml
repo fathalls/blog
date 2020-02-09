@@ -1,4 +1,4 @@
-baseurl = "SF"
+baseurl = "https://salwa.dev"
 languageCode = "en"
 title = "Salwa Fathallah"
 theme = "kiss"

@@ -2,58 +2,58 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Salwa Fathallah</title>
-    <link>SF/post/</link>
+    <link>https://salwa.dev/post/</link>
     <description>Recent content in Posts on Salwa Fathallah</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>&amp;copy;2020</copyright>
     <lastBuildDate>Mon, 16 Sep 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="SF/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://salwa.dev/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>How to choose your database</title>
-      <link>SF/post/how-to-choose-your-database/</link>
+      <link>https://salwa.dev/post/how-to-choose-your-database/</link>
       <pubDate>Mon, 16 Sep 2019 00:00:00 +0000</pubDate>
       
-      <guid>SF/post/how-to-choose-your-database/</guid>
+      <guid>https://salwa.dev/post/how-to-choose-your-database/</guid>
       <description>Choosing a database from a sea of solutions.</description>
     </item>
     
     <item>
       <title>Databases 101</title>
-      <link>SF/post/database-101/</link>
+      <link>https://salwa.dev/post/database-101/</link>
       <pubDate>Sun, 15 Sep 2019 00:00:00 +0000</pubDate>
       
-      <guid>SF/post/database-101/</guid>
+      <guid>https://salwa.dev/post/database-101/</guid>
       <description>This article gives an overview of databases concepts and lingo.</description>
     </item>
     
     <item>
       <title>On how to be creative</title>
-      <link>SF/post/on-how-to-be-creative/</link>
+      <link>https://salwa.dev/post/on-how-to-be-creative/</link>
       <pubDate>Sun, 25 Aug 2019 00:00:00 +0000</pubDate>
       
-      <guid>SF/post/on-how-to-be-creative/</guid>
+      <guid>https://salwa.dev/post/on-how-to-be-creative/</guid>
       <description>Creativity, the method.</description>
     </item>
     
     <item>
       <title>Building a Monzo Bank API application</title>
-      <link>SF/post/building-a-monzo-bank-api-application/</link>
+      <link>https://salwa.dev/post/building-a-monzo-bank-api-application/</link>
       <pubDate>Wed, 14 Aug 2019 00:00:00 +0000</pubDate>
       
-      <guid>SF/post/building-a-monzo-bank-api-application/</guid>
+      <guid>https://salwa.dev/post/building-a-monzo-bank-api-application/</guid>
       <description>How to build an app using the Monzo API.</description>
     </item>
     
     <item>
       <title>Demystifying Node.js for beginners</title>
-      <link>SF/post/demystifying-node-js-for-beginners/</link>
+      <link>https://salwa.dev/post/demystifying-node-js-for-beginners/</link>
       <pubDate>Fri, 12 Jul 2019 00:00:00 +0000</pubDate>
       
-      <guid>SF/post/demystifying-node-js-for-beginners/</guid>
+      <guid>https://salwa.dev/post/demystifying-node-js-for-beginners/</guid>
       <description>Node JS and its ecosystem.</description>
     </item>
     
