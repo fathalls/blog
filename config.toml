@@ -4,7 +4,7 @@ title = "Salwa Fathallah"
 theme = "kiss"
 copyright = "&copy;2020"
 # disqusShortname = "shortname"
-googleAnalytics = ""
+googleAnalytics = "UA-144983266-1"
 Paginate = 1000 # Number of posts per page
 enableRobotsTXT = true
 
