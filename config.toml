@@ -1,0 +1,56 @@
+baseurl = "https://salwa.dev"
+languageCode = "en"
+title = "Salwa Fathallah"
+theme = "kiss"
+copyright = "&copy;2020"
+# disqusShortname = "shortname"
+googleAnalytics = ""
+Paginate = 1000 # Number of posts per page
+enableRobotsTXT = true
+
+[params.rss] # Adding this tag enables RSS feed
+includeContent = true # Includes whole content in rss
+authorName = "Emir Ribic" # Author full name
+authorEmail = "ribice@gmail.com" # Author email
+
+[params.assets]
+customCSS = ["css/custom.css"]
+
+[params.info]
+adsense = "" # Adsense ID (ID only, without ca-pub-)
+enableSocial = true # Adds OpenGraph and Twitter cards
+homeTitle = "" # Title for home page
+poweredby = true # Adds powered by hugo and kiss below Copyright
+related = true # Includes related articles at the bottom of the article
+codeCopy = true # Add copy button above code blocks
+
+# [params.features]
+# disqusOnDemand = true  # Load Disqus comments on click
+
+
+[params.opengraph.facebook]
+admins = [] # array of Facebook IDs
+appID = ""
+pageID = ""
+
+[params.opengraph.twitter]
+page = "" # Twitter Page username. If not set, params.social.twitter will be used.
+
+[params.social]
+twitter = "salwa_fathallah"
+github = "fathalls"
+linkedin = "salwa-fathallah-74a07232"
+about = "me"
+
+[params.social.config]
+platforms = ["github","twitter","linkedin","about"]
+
+[params.matomoAnalytics]
+siteID = 1
+rootURL = "//matomo.example.com/"
+
+[taxonomies]
+tag ="tags"
+
+[blackfriday]
+hrefTargetBlank = true
