@@ -1,0 +1,19 @@
+<section class="section">
+  <div class="container has-text-centered">
+    <p>{{ .Site.Copyright | safeHTML }} Salwa Fathallah</p>
+    {{if .Site.Params.Info.poweredby}}
+      <a href="https://gohugo.io/">Hugo</a> & <a href="https://github.com/ribice/kiss">Kiss</a>
+    {{ end }}
+  </div>
+</section>
+{{ if .Site.GoogleAnalytics }}
+{{ template "_internal/google_analytics_async.html" . }}
+{{ end }}
+{{ if .Site.Params.matomoAnalytics }}
+{{- partial "analytics/matomo" . -}}
+{{ end }}
+{{ if .Site.Params.fathomAnalytics }}
+{{- partial "analytics/fathom" . -}}
+{{ end }}
+</body>
+</html>
