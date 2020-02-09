@@ -10,8 +10,7 @@ enableRobotsTXT = true
 
 [params.rss] # Adding this tag enables RSS feed
 includeContent = true # Includes whole content in rss
-authorName = "Emir Ribic" # Author full name
-authorEmail = "ribice@gmail.com" # Author email
+authorName = "Salwa Fathallah" # Author full name
 
 [params.assets]
 customCSS = ["css/custom.css"]
@@ -40,7 +39,7 @@ page = "" # Twitter Page username. If not set, params.social.twitter will be use
 twitter = "salwa_fathallah"
 github = "fathalls"
 linkedin = "salwa-fathallah-74a07232"
-about = "me"
+# about = "me"
 
 [params.social.config]
 platforms = ["github","twitter","linkedin","about"]

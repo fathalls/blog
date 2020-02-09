@@ -6,8 +6,8 @@ tags : [
     "databases",
 ]
 title: Databases 101 
+draft: true
 summary: This article gives an overview of databases concepts and lingo.
-draft: false
 ---
 ## a bit of history
 

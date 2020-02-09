@@ -1,8 +1,8 @@
 ---
 date: 2019-08-25
-linktitle: On how to be creative
+linktitle: Being creative
 icon: brush-alt
-title: On how to be creative
+title: Being creative
 tags : [
     " creativity","scientific method",
 ]

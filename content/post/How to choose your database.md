@@ -1,11 +1,11 @@
 ---
 date: 2019-09-16
-linktitle: How to choose your database
+linktitle: Choosing a database
 icon: database
 tags : [
     "databases",
 ]
-title: How to choose your database
+title: Choosing a database
 summary: Choosing a database from a sea of solutions.
 ---
 
