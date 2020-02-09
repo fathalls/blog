@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>nodejs on Salwa Fathallah</title>
-    <link>https://salwa.dev/tags/nodejs/</link>
+    <link>SF/tags/nodejs/</link>
     <description>Recent content in nodejs on Salwa Fathallah</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>&amp;copy;2020</copyright>
     <lastBuildDate>Fri, 12 Jul 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://salwa.dev/tags/nodejs/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="SF/tags/nodejs/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Demystifying Node.js for beginners</title>
-      <link>https://salwa.dev/post/demystifying-node-js-for-beginners/</link>
+      <link>SF/post/demystifying-node-js-for-beginners/</link>
       <pubDate>Fri, 12 Jul 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://salwa.dev/post/demystifying-node-js-for-beginners/</guid>
+      <guid>SF/post/demystifying-node-js-for-beginners/</guid>
       <description>Node JS and its ecosystem.</description>
     </item>
     

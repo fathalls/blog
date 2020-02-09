@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>openbanking on Salwa Fathallah</title>
-    <link>https://salwa.dev/tags/openbanking/</link>
+    <link>SF/tags/openbanking/</link>
     <description>Recent content in openbanking on Salwa Fathallah</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>&amp;copy;2020</copyright>
     <lastBuildDate>Wed, 14 Aug 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://salwa.dev/tags/openbanking/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="SF/tags/openbanking/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Building a Monzo Bank API application</title>
-      <link>https://salwa.dev/post/building-a-monzo-bank-api-application/</link>
+      <link>SF/post/building-a-monzo-bank-api-application/</link>
       <pubDate>Wed, 14 Aug 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://salwa.dev/post/building-a-monzo-bank-api-application/</guid>
+      <guid>SF/post/building-a-monzo-bank-api-application/</guid>
       <description>How to build an app using the Monzo API.</description>
     </item>
     
