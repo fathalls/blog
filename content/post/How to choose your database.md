@@ -7,6 +7,7 @@ tags : [
 ]
 title: Choosing a database
 summary: Choosing a database from a sea of solutions.
+draft: true
 ---
 
 Choosing a database management system for a new project can be tricky. Several criteria should be taken into consideration. In this article, I compare relational, NoSQL and NewSQL database models.
