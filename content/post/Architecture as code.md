@@ -4,5 +4,5 @@ linktitle: Software architecture as code
 title: Software architecture as code
 icon: cloudnetwork
 summary: the C4 model as a way to describe architecture and Structurizr as an application.
-draft: true
+draft: false
 ---
