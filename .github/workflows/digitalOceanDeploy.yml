@@ -11,7 +11,10 @@ jobs:
     - uses: actions/checkout@v2
     - name: Run a one-line script
       run: echo Hello, world!
-    - name: Run a multi-line script
-      run: |
-        echo Add other actions to build,
-        echo test, and deploy your project.
+    - name: executing remote ssh commands using password
+      uses: appleboy/ssh-action@master
+      with:
+        host: ${{ secrets.HOST }}
+        username: ${{ secrets.USERNAME }}
+        password: ${{ secrets.PASSWORD }}
+        script: cp -r ~/code/personal-page/public/* /var/www/salwa.dev/
