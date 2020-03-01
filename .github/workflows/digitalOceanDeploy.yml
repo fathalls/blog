@@ -18,4 +18,4 @@ jobs:
         username: ${{ secrets.USERNAME }}
         key: ${{ secrets.KEY }}
         port: ${{ secrets.PORT }}
-        script: cd ~/code/personal-page; git pull; cp ./public /var/www/salwa.dev/.
+        script: cd ~/code/personal-page; git pull; cp -r ./public /var/www/salwa.dev/.
