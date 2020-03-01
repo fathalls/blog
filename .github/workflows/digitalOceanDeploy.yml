@@ -16,5 +16,5 @@ jobs:
       with:
         host: ${{ secrets.HOST }}
         username: ${{ secrets.USERNAME }}
-        password: ${{ secrets.PASSWORD }}
+        key: ${{ secrets.KEY }}
         script: cp -r ~/code/personal-page/public/* /var/www/salwa.dev/
