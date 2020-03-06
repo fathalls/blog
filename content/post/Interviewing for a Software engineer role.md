@@ -4,7 +4,7 @@ linktitle: Interviewing for a software engineer role
 title: Interviewing for a software engineer role
 summary: Checklist for interviewing at tech companies.
 icon: check-box
-draft: false
+draft: true
 ---
 this is what I used while interviewing, I am now a SWE @ Spotify, if you are a minority or a womxn and would like a referral, send me an email at hi @ salwa dot dev.
 
