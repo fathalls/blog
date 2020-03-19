@@ -3,7 +3,7 @@ date: 2020-03-19
 
 linktitle: Deploying a static website using GitHub Actions
 title: Deploying a static website using GitHub Actions
-icon: github
+icon: cloud-upload
 summary: How to deploy a Hugo generated website using GitHub Actions.
 draft: false
 ---
