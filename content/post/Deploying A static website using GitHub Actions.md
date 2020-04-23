@@ -10,7 +10,7 @@ draft: false
 
 I built this website using [Hugo](https://gohugo.io/), it's one of the most popular open-source static site generators.
 
-I wanted to deploy on `push`  to my [Droplet in DigitalOcean](https://www.digitalocean.com/products/droplets/) and I started using [GitHub Actions](https://github.com/features/actions) for that. It's a very good tool to automate CI/CD and is straightforward to set-up.
+I wanted to deploy on `push` to my [Droplet in DigitalOcean](https://www.digitalocean.com/products/droplets/) and I started using [GitHub Actions](https://github.com/features/actions) for that. It's a very good tool to automate CI/CD and is straightforward to set-up.
 
 Here are the steps I followed to automate my deployment - since it's just a personal website and I'm the only one who makes changes, I deploy on `push` to `master`. You will need to:
 
