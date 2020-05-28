@@ -49,4 +49,4 @@ Here are the steps I followed to automate my deployment - since it's just a pers
 
 If your workflow fails, you can check the logs by clicking on `Details`.
 
-Let me know if you need help with any of the steps above ✨ you can reach out to me on [Twitter](https://twitter.com/salwa_fathallah)!
+Let me know if you need help with any of the steps above ✨ you can reach out to me on [Twitter](https://twitter.com/fathalls_)!

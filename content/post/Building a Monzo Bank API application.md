@@ -187,4 +187,4 @@ Hope this helped you understand how to interact with Monzo's API to obtain the b
 - changing the access token storage to be more secure - in a database for instance.
 - Implementing a minimalist design for the page - currently sketching :).
 
-If you get stuck with any step or need help, you can reach out to me via [Twitter](https://twitter.com/salwa_fathallah).
+If you get stuck with any step or need help, you can reach out to me via [Twitter](https://twitter.com/fathalls_).
